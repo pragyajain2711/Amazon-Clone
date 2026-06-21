@@ -16,10 +16,10 @@ This project is a simplified version of the popular e-commerce website Amazon, c
 ![Home Page](asects/homepage.jpeg)
 
 ### Product Section
-![Product Section](asects/products.png)
+![Product Section](asects/products.jpeg)
 
 ### Footer
-![Footer](asects/footer.png)
+![Footer](asects/footer.jpeg)
 
 ## Usage
 
