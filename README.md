@@ -9,6 +9,18 @@ This project is a simplified version of the popular e-commerce website Amazon, c
 - Modern layout with flexbox/grid
 - A well - structured footer that replicates     e-commerce sites
 
+
+## Screenshots
+
+### Home Page
+![Home Page](asects/homepage.png)
+
+### Product Section
+![Product Section](asects/products.png)
+
+### Footer
+![Footer](asects/footer.png)
+
 ## Usage
 
 This project is a demonstration and may be used as a reference for building similar e-commerce landing pages. Feel free to explore the code to understand how the layout and interactive elements were implemented.
