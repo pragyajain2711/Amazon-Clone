@@ -13,7 +13,7 @@ This project is a simplified version of the popular e-commerce website Amazon, c
 ## Screenshots
 
 ### Home Page
-![Home Page](asects/homepage.jpeg)
+![Home Page](asects/home.jpeg)
 
 ### Product Section
 ![Product Section](asects/products.jpeg)
